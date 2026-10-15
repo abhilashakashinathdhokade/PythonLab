@@ -1,3 +1,4 @@
+#Q2
 a = [10, "Abhi", 20, "Harshu", 30, "Amit"]
 numbers=[]
 names=[]
